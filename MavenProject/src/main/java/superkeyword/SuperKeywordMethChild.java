@@ -5,6 +5,7 @@ public class SuperKeywordMethChild extends SuperKeywordMeth {
 	public void display2() {
 		System.out.println("To refer the parent class");
 		super.display(2, 3);
+		
 	}
 	
 
