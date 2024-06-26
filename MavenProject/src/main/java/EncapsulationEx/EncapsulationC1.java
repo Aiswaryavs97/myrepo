@@ -8,7 +8,7 @@ public class EncapsulationC1 {
 	public void getName() 
 	
 	{
-		System.out.println();
+		System.out.println(name);
 	}
 	
 	public void setName(String name) 
